@@ -5,4 +5,4 @@
 - with_mask: MaskedFace-Net https://github.com/cabani/MaskedFace-Net
 - without_mask: Flickr-Faces-HQ Dataset (FFHQ) https://github.com/NVlabs/ffhq-dataset
 
-**testset** is built from manual queries on principal seaech engines
+**testset** is built from manual queries on principal search engines
